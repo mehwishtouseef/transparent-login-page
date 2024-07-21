@@ -1,0 +1,68 @@
+.background-image
+{
+    background-image: url('cat3.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: beige;
+    text-align: center;
+}
+
+.border
+{
+    width: 380px;
+    height: 600px;
+    border: 10px solid transparent white; 
+    color: white;
+    background-color: transparent white;
+    box-sizing: border-box; 
+}
+h1
+{
+    color: whitesmoke;
+    text-shadow: 5px 5px 5px black;
+}
+.one
+{
+    text-align: left;
+    color: whitesmoke;
+    text-shadow: 5px 5px 5px black;
+}
+.two
+{
+    text-align: left;
+    color: whitesmoke;
+    text-shadow: 5px 5px 5px black;
+}
+.three
+{
+    color: pink;
+    text-align: right;
+    font-weight: bold;
+}
+.four {
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(23, 215, 64);
+    border: none; 
+    border-radius: 50px; 
+    cursor: pointer; 
+    height: 40px;
+    width: 80px;
+}
+
+.four:hover {
+    background-color: #45a049; 
+}
+
+
+
+
+
+
+
